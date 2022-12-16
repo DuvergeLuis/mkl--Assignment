@@ -1,0 +1,129 @@
+*{
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box 10%;
+    font-size: 0px;
+        
+
+}
+
+/*  for smaller device   */
+@media (min-width: 200px) and (max-width: 768px){
+
+}
+#box1{
+    background-color:#F5C6D6 ;
+   height: 150px;
+   
+   }
+   #box2{
+   background-color: #EE2E84;
+   height: 150px;
+   border: 30px;color: azure;
+   }
+   #box3{
+   background-color:#EE2E84 ;
+   height: 150px;
+   border: 30px;color: azure;
+   }
+   #box4{
+   background-color:#EE2E84 ;
+   height: 150px;
+   border: 30px;color: azure;
+   }
+   #box5{
+    background-color:#EE2E84;
+       height: 150px;
+       border: 30px;color: azure;
+   
+   }
+   #box6{
+       background-color: #85CFD8;
+       height: 150px;
+       border: 30px;color: azure;
+   }
+   #box7{
+       background-color:#85CFD8 ;
+      height: 150px;
+      border: 30px;color: azure;
+      
+   }
+   #box8{
+       background-color:#8DC63F;
+      height: 150px;
+      border: 30px;color: azure;
+      
+   }
+   
+   #box9{
+       background-color: #E76E34;
+      height: 150px;
+      border: 30px;color: azure;
+      
+   }
+   @media (min-width: 768px){
+/* for laprtop  */
+   }
+   #box1{
+       background-color:#F5C6D6 ;
+       width: 100%;
+      height: 150px;
+      border: 30px;color: azure;
+      }
+      #box2{
+      background-color: #EE2E84;
+      width: 25%;
+      height: 150px;
+      border: 30px;color: azure;
+      }
+      #box3{
+      background-color:#EE2E84 ;
+      width: 25%;
+      height: 150px;
+      border: 30px;color: azure;
+      position:relative; left: 385px;bottom: 165px;
+      }
+      #box4{
+        background-color: #EE2E84;
+        width: 25%;
+        height: 150px;
+        border: 30px;color: azure;
+        position:relative; left: 780px;bottom: 330px;
+      }
+      #box5{
+        background-color: #EE2E84;
+      width: 25%;
+      height: 150px;
+      border: 30px;color: azure;
+      position:relative; left: 1170px;bottom: 495px;
+      }
+      #box6{
+          background-color: #85CFD8;
+          width: 51%;
+          height: 150px;
+          border: 30px;color: azure;
+          position:relative; ;bottom: 485px;
+      }
+      #box7{
+          background-color:#85CFD8 ;
+          width: 50%;
+         height: 150px;
+         border: 30px;color: azure;
+         position:relative;  left:780px ;bottom: 650px;
+      }
+      #box8{
+          background-color:#8DC63F;
+          width: 70%;
+         height: 150px;
+         border: 30px;color: azure;
+         position:relative; ;bottom: 630px;
+      }
+      
+      #box9{
+          background-color: #E76E34;
+          width: 30%;
+         height: 150px;
+         border: 30px;color: azure;
+         position:relative;left: 1060px ;bottom: 795px;
+         
+      }
